@@ -6,7 +6,7 @@ Authors@R: c(
     person(
       "Shen",
       email = "sara.shen71@outlook.com",
-      role = "student"
+      role = c("aut", "cre")
     )
   )
 Description: create a scatterplot with grid and red regression line
