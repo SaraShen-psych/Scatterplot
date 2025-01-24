@@ -8,7 +8,7 @@ Scatterplot
 Given data, create a scatterplot with grid and red regression line
 }
 \usage{
-Scatterplot(x,y)
+Scatter_plot(x,y)
 }
 \arguments{
   \item{x}{
