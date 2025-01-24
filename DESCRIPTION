@@ -1,0 +1,15 @@
+Package: Scatterplot
+Type: Package
+Title: Create a scatter plot
+Version: 0.1.0
+Authors@R: c(
+    person(
+      "Shen",
+      email = "sara.shen71@outlook.com",
+      role = "student"
+    )
+  )
+Description: create a scatterplot with grid and red regression line
+License: no
+Encoding: UTF-8
+LazyData: true
